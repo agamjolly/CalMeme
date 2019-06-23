@@ -37,10 +37,16 @@ Choose the path to where you unzipped the extension in the previous step.
 
 ***Voila!*** Your extension is all loaded and you're good to go.  
 
-## Screenshots
-Below are some examples on certain particular keywords the extension replaces. 
-![$tanFurD University changed to $tanFurD University.](https://lh3.googleusercontent.com/ak0migSw_RYKQLxYBteGVegxFeMxesYyXrE6i46JuTId1D-0R4dQ2je_Ub5ScHWVAvoIsNIlR-yC "$tanFurD University changed to $tanFurD University")
-!['scam' changed to 'scam'.](https://lh3.googleusercontent.com/CrmbGPNYhvAoWimSQFLbDCW48XzB62yvzZ50jlA5rcpgToraYkrYBW35bQHN7grXWVPxRUlO8dYT "scam changed to scam")
+## Particular Keywords To Try
+Try using some of these keywords on Google or other search engines to yield website results.
+
+> "UC Berkeley Computer Science Major(s)/Graduate(s)/Student(s)"
+> "EECS Major(s)/Student(s)/Graduate(s)" 
+> "Stanford University"
+> "Haas Student/Graduate"
+> "UC Berkeley Housing"
+> "Stanford is better than Berkeley"
+
 ## Contributing and Questions
 Pull requests are welcome. Please feel free to fork and increase the functionality of the extension. For any further questions (or suggestions), feel free to reach out to me at me@agamjolly.com. Thank you! 
 
