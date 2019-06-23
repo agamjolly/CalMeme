@@ -40,12 +40,12 @@ Choose the path to where you unzipped the extension in the previous step.
 ## Particular Keywords To Try
 Try using some of these keywords on Google or other search engines to yield website results.
 
-> "UC Berkeley Computer Science Major(s)/Graduate(s)/Student(s)"
-> "EECS Major(s)/Student(s)/Graduate(s)" 
-> "Stanford University"
-> "Haas Student/Graduate"
-> "UC Berkeley Housing"
-> "Stanford is better than Berkeley"
+> 1. "UC Berkeley Computer Science Major(s)/Graduate(s)/Student(s)"
+> 2. "EECS Major(s)/Student(s)/Graduate(s)" 
+> 3. "Stanford University"
+> 4. "Haas Student/Graduate"
+> 5. "UC Berkeley Housing"
+> 6. "Stanford is better than Berkeley"
 
 ## Contributing and Questions
 Pull requests are welcome. Please feel free to fork and increase the functionality of the extension. For any further questions (or suggestions), feel free to reach out to me at me@agamjolly.com. Thank you! 
